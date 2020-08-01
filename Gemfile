@@ -6,7 +6,7 @@ ruby '2.6.5'
 
 gem 'record_tag_helper', '~> 1.0'
 gem 'simple_form'
-gem 'bootstrap-sass', '~> 3.3.5.1'
+gem 'bootstrap-sass', '~> 3.4.1'
 #gem 'sassc-rails', '>= 2.1.0'
 gem 'acts_as_votable', '~> 0.11.1'
 gem 'devise', '~> 4.7', '>= 4.7.2'
